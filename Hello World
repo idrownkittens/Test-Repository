@@ -1,0 +1,6 @@
+#include <iostream>
+#include <Windows.h>
+
+cout << "Hello, world!" << endl;
+Sleep(4000);
+return 0;
