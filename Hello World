@@ -2,5 +2,5 @@
 #include <Windows.h>
 
 cout << "Hello, world!" << endl;
-Sleep(4000);
+Sleep(4000000000000);
 return 0;
